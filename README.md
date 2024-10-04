@@ -1,49 +1,49 @@
 # Python_Exercises_Y.Liang
 Chapter1: 
-assembler
-assembly language
-bit
-bus
-byte
-cable modem
-calling a function
-central processing unit (CPU)
-comment
-compiler
-console
-dot pitch
-DSL (digital subscriber line)
-encoding scheme
-function
-hardware
-high-level language
-indentation
-interactive mode
-interpreter
-invoking a function
-IDLE (Interactive DeveLopment Environment)
-logic error
-low-level language
-machine language
-memory
-module
-motherboard
-network interface card (NIC)
-operating system (OS)
-pixel
-program
-programming language
-runtime error
-screen resolution
-script file
-script mode
-software
-source code
-source file
-source program
-storage devices
-syntax error
-syntax rulse
+1. assembler
+2. assembly language
+3. bit
+4. bus
+5. byte
+6. cable modem
+7. calling a function
+8. central processing unit (CPU)
+9. comment
+10. compiler
+11. console
+12. dot pitch
+13. DSL (digital subscriber line)
+14. encoding scheme
+15. 1function
+16. hardware
+17. high-level language
+18. indentation
+19. interactive mode
+20. interpreter
+21. invoking a function
+22. IDLE (Interactive DeveLopment Environment)
+23. logic error
+24. low-level language
+25. machine language
+26. memory
+27. module
+28. motherboard
+29. network interface card (NIC)
+30. operating system (OS)
+31. pixel
+32. program
+33. programming language
+34. runtime error
+35. screen resolution
+36. script file
+37. script mode
+38. software
+39. source code
+40. source file
+41. source program
+42. storage devices
+43. syntax error
+44. syntax rulse
 Chapter2:
 algorithm
 assignment operator (=)
